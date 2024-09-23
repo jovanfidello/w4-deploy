@@ -15,4 +15,4 @@ export default defineNuxtConfig({
       // Add more environment variables as needed
     },
   },
-})
+});
